@@ -14,7 +14,7 @@ A continuación se detalla el procedimiento para importar modelos en LTSpice, us
     como se muestra en la siguiente imagen
 
     <div align="center">
-    <img src="/figs/lab01/CD4069UB_1.png" width="400" height="600">
+    <img src="/labs/figs/lab01/CD4069UB_1.png" width="400" height="600">
     </div>
     <div align="center">
         Figura 1
@@ -24,7 +24,7 @@ A continuación se detalla el procedimiento para importar modelos en LTSpice, us
 3. En le menú que se despliega seleccionar ```Create Symbol``` lo que deberá abrir una nueva ventana en LTSpice con extensión ```.asy```, en donde podrá visualizar el componente como se muestra a continuación:
 
     <div align="center">
-    <img src="/figs/lab01/CD4069UB.png" width="200" height="200">
+    <img src="/labs/figs/lab01/CD4069UB.png" width="200" height="200">
     </div>
 
     <div align="center">
@@ -44,7 +44,7 @@ Una vez guardado, en la ventana de LTSpice donde se crean los esquemáticos (con
  ```Component``` en la barra de iconos de LTSpice, u oprimiendo la tecla ```P```, allí deberá encontrar la carpeta ```generated``` como se muestra:
 
  <div align="center">
-    <img src="/figs/lab01/ltspice_generated.png" width="600" height="400">
+    <img src="/labs/figs/lab01/ltspice_generated.png" width="600" height="400">
 </div>
 <div align="center">
     Figura 3
@@ -57,7 +57,7 @@ Una vez guardado, en la ventana de LTSpice donde se crean los esquemáticos (con
  4. Para crear un simbolo personalizado para este componente, en la ventana con extesión ```.asy``` que se muestra en la figura 2, podrá eliminar el recuadro amarillo (no elimine ninguno de los puertos) y con las formas que encontrará en el menú ```View``` podrá crear el simbolo deseado, como se muestra a continuación:
 
  <div align="center">
-    <img src="/figs/lab01/simb.png" width="300" height="200">
+    <img src="/labs/figs/lab01/simb.png" width="300" height="200">
 </div>
 <div align="center">
     Figura 4
