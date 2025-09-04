@@ -19,7 +19,7 @@
     * Seleccione la última versión  y  seleccione el sistema operativo, en este caso Linux!
     *  Descargue el archivo ```.run```.
 
-        ![download_quartus](/labs/figs/quartus_1.png)
+        ![download_quartus](/labs/figs/lab00/quartus_1.png)
 
 
 * Instalación:
