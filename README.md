@@ -139,17 +139,16 @@ Esta metodología está diseñada para garantizar una experiencia de aprendizaje
     <td><a href="/labs/lab00/README.md">lab00</a></td>
     <td>-</td>
     <td>-</td>
-    <td>-</td>
   </tr>
   <tr>
     <td>3-4</td>
     <td>Comparación de tecnologías CMOS vs TTL</td>
     <td><a href="/labs/lab01/README.md">lab01</a></td>
     <td><a href="">Link</a></td>
-    <td> 11-14 May/2025</td>
+    <td> 20 sep</td>
   </tr>
 
-
+pics
  
 
 
