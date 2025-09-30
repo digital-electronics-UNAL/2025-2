@@ -30,6 +30,8 @@ El laboratorio de Electrónica Digital I tiene como objetivo principal complemen
 
     * **Configurar el entorno de trabajo:** Para las actividades que requieren *software* o herramientas específicas, como simuladores y herramientas de diseño y síntesis de circuitos digitales, los estudiantes deberán asegurarse de tener todo instalado y configurado previamente.
 
+    * [Formato de préstamo transitorio 2025-2](https://docs.google.com/spreadsheets/d/1Ol1tpYTC6LMZpP8bKTPOp6xui7ce5bB5/edit?gid=2050220138#gid=2050220138)
+
 2. **Ejecución de las prácticas**
 
     Durante las sesiones de laboratorio, se seguirá el siguiente esquema:
