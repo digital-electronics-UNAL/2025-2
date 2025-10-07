@@ -3,7 +3,7 @@
 Índice:
 
 * [Descargar e instalar Intel Quartus Prime](#descargar-e-instalar-intel-quartus-prime).
-    * [Configurar la variable de entorno para Questa](#configuración-de-la-variable-de-entorno)
+    * [Configurar la variable de entorno para Quartus](#configuración-de-la-variable-de-entorno)
 <!-- * [Descargar e instalar el simulador Questa](#descargar-e-instalar-la-herramienta-de-simulación-questa). -->
 * [Configurar del programador (USB-blaster) de la FPGA](#configuración-del-programador-usb-blaster-de-la-fpga).
 * [Entregables](#entregables)
