@@ -154,7 +154,7 @@ Esta metodología está diseñada para garantizar una experiencia de aprendizaje
     <td>Sumador de 1 y 4 bits y sumador/restador</td>
     <td><a href="/labs/lab02/README.md">lab02</a></td>
     <td><a href="https://classroom.github.com/a/Xq4lF-ov">Link</a></td>
-    <td> 30 sep</td>
+    <td> 21 Oct</td>
   </tr>
  
 
