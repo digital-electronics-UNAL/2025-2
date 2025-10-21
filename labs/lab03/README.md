@@ -74,7 +74,7 @@ El display de siete segmentos es un dispositivo electrónico que consta de siete
 En las siguientes figuras se muestra cómo se distribuyen los 7 segmentos en el display cuando se tiene una configuración de ánodo común:
 
 <p align="center">
- <img src="/pics/lab03/segm.png" alt="alt text" width=500 >
+ <img src="/labs/figs/lab03/segm.png" alt="alt text" width=500 >
 </p>
 
 
@@ -91,7 +91,7 @@ Pasos a seguir:
 1. Definir el bloque funcional del diseño:
 
     <p align="center">
-        <img src="/figs/lab03/Sseg.png" alt="alt text" width=500 >
+    <img src="/labs/figs/lab03/Sseg.png" alt="alt text" width=500 >
     </p>
 
 
@@ -123,11 +123,11 @@ ero en la mayoría de los casos, los 7 pines de los ánodos de cada LED están i
 En la parte 1 se visualizaba el número en un sólo display de 7 segmentos. Pero en la mayoría de los casos, los 7 pines de los ánodos de cada LED están interconectados entre cada display, como se observa en la siguientes figuras:
 
 <p align="center">
- <img src="/figs/lab03/7segments.png" width=500 height=300>
+ <img src="/labs/figs/lab03/7segments.png" width=500 height=300>
 </p> 
 
 <p align="center">
- <img src="/figs/lab03/displays1.jpeg" width=600 height=500>
+ <img src="/labs/figs/lab03/displays1.jpeg" width=600 height=500>
 </p> 
 
 
@@ -136,7 +136,7 @@ Por lo tanto, se debe realizar una multiplexación entre los ánodos de cada dis
 A continuación se muestra el diagrama estructural de esta implementación:
 
 <p align="center">
- <img src="/figs/lab03/displays_block1.png" width=400 height=200>
+ <img src="/labs/figs/lab03/displays_block1.png" width=400 height=200>
 </p> 
 
 
