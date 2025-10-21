@@ -156,6 +156,13 @@ Esta metodología está diseñada para garantizar una experiencia de aprendizaje
     <td><a href="https://classroom.github.com/a/Xq4lF-ov">Link</a></td>
     <td> 21 Oct</td>
   </tr>
+  <tr>
+    <td>6-7</td>
+    <td>Decodificador BCD a 7 segmentos</td>
+    <td><a href="/labs/lab03/README.md">lab03</a></td>
+    <td><a href="">Link</a></td>
+    <td> 28 Oct</td>
+  </tr>
  
 
 
