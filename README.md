@@ -163,6 +163,14 @@ Esta metodología está diseñada para garantizar una experiencia de aprendizaje
     <td><a href="https://classroom.github.com/a/NsOl3Baa">Link</a></td>
     <td> 28 Oct</td>
   </tr>
+  <tr>
+    <td>6-7</td>
+    <td>LCD 16x2 en modo paralelo</td>
+    <td><a href="/labs/lab04/README.md">lab04</a></td>
+    <td><a href="13 Nov">Link</a></td>
+    <td> 28 Oct</td>
+  </tr>
+  </table>
  
 
 
