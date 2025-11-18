@@ -164,11 +164,18 @@ Esta metodología está diseñada para garantizar una experiencia de aprendizaje
     <td> 28 Oct</td>
   </tr>
   <tr>
-    <td>8-9cle</td>
+    <td>8-9</td>
     <td>LCD 16x2 en modo paralelo</td>
     <td><a href="/labs/lab04/README.md">lab04</a></td>
     <td><a href="https://classroom.github.com/a/xnzeM2hf">Link</a></td>
     <td> 13 Nov</td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td> Proyecto final</td>
+    <td><a>Proyecto</a></td>
+    <td><a href="https://classroom.github.com/a/7gF4-Dcv">Link</a></td>
+    <td> </td>
   </tr>
   </table>
  
